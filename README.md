@@ -1,6 +1,5 @@
 Live Website:
-
- https://tienlewebmaster.github.io/my-react 
+https://thuytienledeveloper.github.io/my-react/
 
 
 
